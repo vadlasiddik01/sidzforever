@@ -1,6 +1,5 @@
-# �� FOREVER - Complete E-commerce Platform
-
-![Demo GIF](https://github.com/vadlasiddik01/sidzforever/blob/main/frontend/mainforever.gif)
+# �� SIDZFOREVER - Complete E-commerce Platform
+![Demo GIF](https://github.com/vadlasiddik01/sidzforever/blob/main/frontend/FrontendForever.gif)
 
 # ADMIN Panel - SIDZFOREVER
 ![Demo GIF](https://github.com/vadlasiddik01/sidzforever/blob/main/admin/foreverAdmin.gif)
